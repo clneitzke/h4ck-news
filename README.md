@@ -1,5 +1,3 @@
 # h4ck-news
 
-First test with SwiftUI ... success !! 
-
-😶
+Short app using SwiftUI to retrieve informations from web. 🗞 😶
